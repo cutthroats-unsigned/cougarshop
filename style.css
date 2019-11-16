@@ -1,0 +1,21 @@
+.topmenu.bar.menu {
+  box-shadow: none;
+  border: none;
+  background-color: #F5F5F5;
+}
+.left{
+  margin-left: 50px;
+}
+.fitted.dropdown{
+  margin-right: 50px;
+}
+.grid{
+  box-shadow: none;
+  border: none;
+  background-color: white;
+}
+.borderless.menu{
+  box-shadow: none;
+  border: none;
+  background-color: white;
+}
