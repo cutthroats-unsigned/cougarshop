@@ -22,11 +22,27 @@
 .text{
   color: black;
 }
-.black-background {
+.footer {
   background-color: #292929;
-  height: 200px;
+  height: 350px;
+  padding-top: 50px;
+  padding-bottom: 50px;
 }
 .centerimage{
 width: 100%;
   height: auto;
+}
+.column{
+  background-color: #292929;
+  color: white;
+
+}
+.facebook{
+
+}
+.xtrapad{
+  margin-right: 3em;
+}
+.field{
+  color: #F5F5F5;
 }
