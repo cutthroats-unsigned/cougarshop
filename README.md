@@ -1,2 +1,2 @@
 # cougarshop
-Assignment 5 CS320
+This is a basic HTML page that I created for one of my assingments in univeristy.
